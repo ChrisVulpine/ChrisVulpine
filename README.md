@@ -22,9 +22,12 @@
 </div> 
 
 ---
+<div align="center">
+  
+### :man_technologist: A little about me
+</div> 
 
-### :man_technologist: A little about me :
-I am a Full Stack Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzE1eXVjb295NjkwanM2dzB1d3pyNGltNDJ5Y3U0ZGlicGJ3N3N1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"> from NC.
+- I am a Full Stack Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzE1eXVjb295NjkwanM2dzB1d3pyNGltNDJ5Y3U0ZGlicGJ3N3N1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"> from NC.
 - :telescope: I’m looking for work as a Full Stack Developer and look forward to contributing to frontend and backend web applications.
 
 - :seedling: Exploring UI Design, Game Developement, and 
@@ -37,9 +40,14 @@ I am a Full Stack Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3N
 
 
 ---
+<div align="center">
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+### :hammer_and_wrench: Languages and Tools
+
+</div>
+<br>
+
+<div align="center">
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -55,13 +63,17 @@ I am a Full Stack Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3N
 </div>
 
 ---
+<div align="center">
+  
+### :fire: My Stats
 
-### :fire: My Stats :
+</div>
+<br>
 <div id="stats" align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chrisvulpine&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chrisvulpine&theme=github-dark&hide_border=true)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisvulpine&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisvulpine&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
