@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/%E2%9C%A8%20Portfolio-darkgreen?style=for-the-badge" alt="portfolio"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=chrisvulpinge&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=chrisvulpinge&style=for-the-badge&color=yellow" alt=""/>
   <h1>
   Hello! I'm Chris
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFyYmkzODFkZzR4YXg4M2U5ZHVpZHA1cWtvNjh0emVseHVtbDl4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2sjwBnNlY4CPyr8goo/giphy.gif" width="60px"/>
@@ -26,16 +26,21 @@
   
 ### :man_technologist: A little about me
 </div> 
+<br>
 
 - I am a Full Stack Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzE1eXVjb295NjkwanM2dzB1d3pyNGltNDJ5Y3U0ZGlicGJ3N3N1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"> from NC.
 - :telescope: I’m looking for work as a Full Stack Developer and look forward to contributing to frontend and backend web applications.
 
 - :seedling: Exploring UI Design, Game Developement, and 
 
-- :video_game: In my free time, I am a professional photographer (Canon for life) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNveHNpamU3dnE5cmpkbWdqdmpmZHhzc3gzd2ozN2x5OGphdzczaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xcFJX6T9z2iqiB9Ud9/giphy.gif" width="20">, I play videogames (Slay the Spire, Moonlighter, and Stardew Valley all day!) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdwbWF4YWJ2NWtzNXozMzA2em5oNjA3YTVkeWE1ZG8ya3Z2cmp0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HH2bb3Pjq5IB2/giphy.gif" width="20">, I also enjoy writing (mostly fantasy and about life) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRtZWNwOHVtdWg1dW03eHlrM24yYWFmdG1zbWcwOW5nMnlyaGgwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSufo5veo0IiD3pnqj/giphy.gif" width="20">  and reading (fantasy, self-help, and of course coding.) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBlc244eXlubGpiMXpkdDhlemdzOHcyZjNnc29tODl1dHZjZnAwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjxYwnMG7Mocmc75DM/giphy.gif" width="20"> 
+- :video_game: In my free time, I am a professional photographer (Canon for life) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNveHNpamU3dnE5cmpkbWdqdmpmZHhzc3gzd2ozN2x5OGphdzczaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xcFJX6T9z2iqiB9Ud9/giphy.gif" width="20">, I play videogames (Slay the Spire, Moonlighter, and Stardew Valley all day!) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdwbWF4YWJ2NWtzNXozMzA2em5oNjA3YTVkeWE1ZG8ya3Z2cmp0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HH2bb3Pjq5IB2/giphy.gif" width="20">, I also enjoy writing (mostly fantasy and about life) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRtZWNwOHVtdWg1dW03eHlrM24yYWFmdG1zbWcwOW5nMnlyaGgwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSufo5veo0IiD3pnqj/giphy.gif" width="20">  and reading (fantasy, self-help, and of course coding.) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBlc244eXlubGpiMXpkdDhlemdzOHcyZjNnc29tODl1dHZjZnAwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjxYwnMG7Mocmc75DM/giphy.gif" width="20">
+- Things I need:
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjF3dDF0N3E2emRmYmdjY2trNWpiNnUyM2Q1ajQ5bGp0ZmdtaTN6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TjjrLK3XZkdgJRvoZJ/giphy.gif" width="200"/>
 
-- :mailbox:How to reach me: [![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-darkgreen?style=flat)](mailto:chrisleach1191@gmail.com)
- [![Linkedin Badge](https://img.shields.io/badge/-ChrisLeach-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chris-leach-media/) 
+- :mailbox: How to reach me: [![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-darkgreen?style=flat)](mailto:chrisleach1191@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-ChrisLeach-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chris-leach-media/)
+
+
 
 
 
