@@ -5,10 +5,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/ChrisLeach69977">
-    <img src="https://img.shields.io/badge/-black?style=flat&logo=x" alt="X"/>
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" alt="X"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="" alt=""/>
+  <a href="https://www.instagram.com/chrisleachmedia/">
+    <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram" alt="instagram"/>
+  </a>
+  <a href="https://chrisvulpine.netlify.app/">
+    <img src="https://img.shields.io/badge/%E2%9C%A8%20Portfolio-darkgreen?style=for-the-badge" alt="portfolio"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=chrisvulpinge&style=flat-square&color=blue" alt=""/>
