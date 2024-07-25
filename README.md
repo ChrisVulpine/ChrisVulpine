@@ -31,7 +31,8 @@ I am a Full Stack Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3N
 
 - :video_game: In my free time, I am a professional photographer (Canon for life) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNveHNpamU3dnE5cmpkbWdqdmpmZHhzc3gzd2ozN2x5OGphdzczaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xcFJX6T9z2iqiB9Ud9/giphy.gif" width="20">, I play videogames (Slay the Spire, Moonlighter, and Stardew Valley all day!) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdwbWF4YWJ2NWtzNXozMzA2em5oNjA3YTVkeWE1ZG8ya3Z2cmp0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HH2bb3Pjq5IB2/giphy.gif" width="20">, I also enjoy writing (mostly fantasy and about life) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRtZWNwOHVtdWg1dW03eHlrM24yYWFmdG1zbWcwOW5nMnlyaGgwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSufo5veo0IiD3pnqj/giphy.gif" width="20">  and reading (fantasy, self-help, and of course coding.) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBlc244eXlubGpiMXpkdDhlemdzOHcyZjNnc29tODl1dHZjZnAwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjxYwnMG7Mocmc75DM/giphy.gif" width="20"> 
 
-- :mailbox:How to reach me: ![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-darkgreen?style=flat&link=mailto%3Achrisleach1191%40gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-ChrisLeach-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chris-leach-media/) 
+- :mailbox:How to reach me: [![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-darkgreen?style=flat)](mailto:chrisleach1191@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-ChrisLeach-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chris-leach-media/) 
 
 
 
