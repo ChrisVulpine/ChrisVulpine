@@ -7,7 +7,7 @@
   <a href="https://x.com/ChrisLeach69977">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" alt="X"/>
   </a>
-  <a href="https://www.instagram.com/chrisleachmedia/">
+  <a href="https://www.instagram.com/chrisvulpine/">
     <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram" alt="instagram"/>
   </a>
   <a href="https://chrisvulpine.netlify.app/">
