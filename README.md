@@ -19,6 +19,9 @@
   Hello! I'm Chris
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFyYmkzODFkZzR4YXg4M2U5ZHVpZHA1cWtvNjh0emVseHVtbDl4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2sjwBnNlY4CPyr8goo/giphy.gif" width="60px"/>
 </h1>
+<h2>A Full-Stack Web Developer <br>
+   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc201am5keDhycTJ0dWZldzBmdWxvbDh2ZnA2MDhnaWs5dm8wdTBobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YULPJoecGetvtOm1H0/giphy.gif" width="300"/><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ244Ymdrd3RmbXRjcGJiM2o0ZGtjazF6anpjMm1yNmx4NDhrcWZoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SQTSmiJl0uKoZNdv1T/giphy.gif" width="300"/>
+  </h2>
 </div> 
 
 ---
