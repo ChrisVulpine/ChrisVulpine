@@ -2,19 +2,19 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZsOXNmYXV0em1xaGJwdDR0bHBya2t4cTE3cDBzcXVmcDVobnNpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="300"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/chris-leach-media/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%234E937A?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://x.com/ChrisLeach69977">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" alt="X"/>
+    <img src="https://img.shields.io/badge/Twitter-%230D122F?style=for-the-badge&logo=x" alt="X"/>
   </a>
   <a href="https://www.instagram.com/chrisvulpine/">
-    <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram" alt="instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%234E937A?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
   <a href="https://chrisvulpine.netlify.app/">
-    <img src="https://img.shields.io/badge/%E2%9C%A8%20Portfolio-darkgreen?style=for-the-badge" alt="portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-%230D122F?style=for-the-badge&logo=awesome%20lists&logoColor=white" alt="portfolio"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=chrisvulpinge&style=for-the-badge&color=yellow" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=chrisvulpinge&style=for-the-badge&color=E29924" alt=""/>
   <h1>
   Hello! I'm Chris
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFyYmkzODFkZzR4YXg4M2U5ZHVpZHA1cWtvNjh0emVseHVtbDl4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2sjwBnNlY4CPyr8goo/giphy.gif" width="60px"/>
@@ -27,7 +27,7 @@
 ---
 <div align="center">
   
-### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnc4bGR1ODA0ZTU5czFhbnF2N2d1MnI0bDE3czY5MXNqZHZiZWNzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HU7JI4zIb34QM5a/giphy.gif" width="60px"/> A little about me
+### A little about me <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnc4bGR1ODA0ZTU5czFhbnF2N2d1MnI0bDE3czY5MXNqZHZiZWNzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HU7JI4zIb34QM5a/giphy.gif" width="60px"/> 
 </h1>
 </div> 
 <br>
